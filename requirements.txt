@@ -1,0 +1,8 @@
+setuptools
+wheel
+numpy
+scipy
+scikit-learn 
+pprint
+lightgbm
+joblib
